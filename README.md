@@ -1,2 +1,2 @@
-# my-fist-binder
+# my-first-binder
 My first binder example
